@@ -1,0 +1,1 @@
+INSERT INTO `codmgr2`.`brand` (name) VALUES ('default');

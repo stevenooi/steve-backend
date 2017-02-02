@@ -1,0 +1,22 @@
+{
+  "name": "com.summittimer.codmgr2-backend",
+  "version": "1.0.0",
+  "description": "Code Manager Back End System",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+	"start": "node server"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://stevenooi84@bitbucket.org/summitinnovations/com.summittimer.codmgr2-backend.git"
+  },
+  "author": "Summit Innovations",
+  "license": "ISC",
+  "homepage": "https://bitbucket.org/summitinnovations/com.summittimer.codmgr2-backend#readme",
+  "dependencies": {
+    "cors": "^2.8.1",
+    "express": "^4.14.0", 
+    "mysql": "^2.12.0"
+  }
+}
