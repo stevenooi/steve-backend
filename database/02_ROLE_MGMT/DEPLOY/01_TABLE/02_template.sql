@@ -1,0 +1,7 @@
+ALTER TABLE `codmgr2`.`template` ADD COLUMN `welcome` VARCHAR(255) DEFAULT NULL;
+ALTER TABLE `codmgr2`.`template` ADD COLUMN `thankyou` VARCHAR(255) DEFAULT NULL;
+ALTER TABLE `codmgr2`.`template` ADD COLUMN `logo` VARCHAR(255) DEFAULT NULL;
+ALTER TABLE `codmgr2`.`template` ADD COLUMN `default1` VARCHAR(255) DEFAULT NULL;
+ALTER TABLE `codmgr2`.`template` ADD COLUMN `default2` VARCHAR(255) DEFAULT NULL;
+ALTER TABLE `codmgr2`.`template` ADD COLUMN `status` VARCHAR(50) DEFAULT NULL;
+

@@ -1,0 +1,1 @@
+ALTER TABLE `codmgr2`.`category` ADD COLUMN `is_delete` TINYINT(1) DEFAULT 0;

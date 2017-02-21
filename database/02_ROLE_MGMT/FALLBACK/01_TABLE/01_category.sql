@@ -1,0 +1,1 @@
+ALTER TABLE `codmgr2`.`category` DROP COLUMN `is_delete`;
