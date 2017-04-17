@@ -5,7 +5,11 @@
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1",
-	"start": "node server"
+    "build_prod": "deployment\\configure_prod",
+    "build_local": "deployment\\configure_local",
+    "start_local": "npm run build_local && node server",
+    "start_prod": "npm run build_prod && node server",
+    "start": "node server"
   },
   "repository": {
     "type": "git",
@@ -16,7 +20,16 @@
   "homepage": "https://bitbucket.org/summitinnovations/com.summittimer.codmgr2-backend#readme",
   "dependencies": {
     "cors": "^2.8.1",
-    "express": "^4.14.0", 
-    "mysql": "^2.12.0"
+    "express": "^4.14.0",
+    "express-fileupload": "0.0.6",
+    "fs": "0.0.1-security",
+    "http": "0.0.0",
+    "https": "^1.0.0",
+    "mysql": "^2.12.0",
+    "querystring": "^0.2.0",
+    "underscore": "^1.8.3",
+    "websocket": "^1.0.24",
+    "winston": "^2.3.1",
+    "winston-daily-rotate-file": "^1.4.4"
   }
 }

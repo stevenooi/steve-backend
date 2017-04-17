@@ -1,0 +1,1 @@
+INSERT INTO `user` (userid,password,company_id,role_id) VALUES ( 'superadmin','password','1','1');

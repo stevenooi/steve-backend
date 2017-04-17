@@ -1,1 +1,0 @@
-INSERT INTO `codmgr2`.`company_brand` (company_id,brand_id) SELECT MAX(c.id),MAX(b.id) from `codmgr2`.`company` c, `codmgr2`.`brand` b;
