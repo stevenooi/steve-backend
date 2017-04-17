@@ -1,0 +1,16 @@
+{"level":"info","message":"client_time: 4/17/2017, 11:07:43 PM user: superadmin action: Login User - Success [username:superadmin]","timestamp":"11:07:43 PM"}
+{"level":"info","message":"client_time: 4/17/2017, 11:15:36 PM user: superadmin action: Login User - Success [username:superadmin]","timestamp":"11:15:36 PM"}
+{"level":"info","message":"client_time: 4/17/2017, 11:28:42 PM user: superadmin action: Login User - Success [username:superadmin]","timestamp":"11:28:42 PM"}
+{"level":"info","message":"client_time: 4/17/2017, 11:28:53 PM user: superadmin action: Add User [username:steven, roleId:1, company_id:1]","timestamp":"11:28:53 PM"}
+{"level":"info","message":"client_time: 4/17/2017, 11:29:04 PM user: superadmin action: Login User - Success [username:steven]","timestamp":"11:29:04 PM"}
+{"level":"info","message":"client_time: 4/17/2017, 11:41:18 PM user: steven action: Login User - Success [username:superadmin]","timestamp":"11:41:18 PM"}
+{"level":"info","message":"client_time: 4/17/2017, 11:42:45 PM user: superadmin action: Login User - Success [username:superadmin]","timestamp":"11:42:45 PM"}
+{"level":"info","message":"client_time: 4/17/2017, 11:42:56 PM user: superadmin action: Login User - Success [username:superadmin]","timestamp":"11:42:56 PM"}
+{"level":"info","message":" action: Error : [undefined]","timestamp":"12:03:10 AM"}
+{"level":"info","message":" action: Error : [undefined]","timestamp":"12:03:59 AM"}
+{"level":"info","message":" action: Error : [undefined]","timestamp":"12:05:50 AM"}
+{"level":"info","message":"client_time: 4/18/2017, 12:06:03 AM user: superadmin action: Login User - Success [username:superadmin]","timestamp":"12:06:04 AM"}
+{"level":"info","message":"client_time: 4/18/2017, 12:06:30 AM user: superadmin action: Login User - Success [username:superadmin]","timestamp":"12:06:30 AM"}
+{"level":"info","message":"client_time: 4/18/2017, 12:07:06 AM user: superadmin action: Login User - Success [username:superadmin]","timestamp":"12:07:06 AM"}
+{"level":"info","message":"client_time: 4/18/2017, 12:09:02 AM user: superadmin action: Login User - Success [username:superadmin]","timestamp":"12:09:02 AM"}
+{"level":"info","message":"client_time: 4/18/2017, 12:09:51 AM user: superadmin action: Add User [username:aa, roleId:1, company_id:1]","timestamp":"12:09:51 AM"}

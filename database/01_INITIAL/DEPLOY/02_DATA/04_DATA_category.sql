@@ -1,1 +1,0 @@
-INSERT INTO `codmgr2`.`category` (name,company_id) SELECT 'default',MAX(c.id) from `codmgr2`.`company` c;

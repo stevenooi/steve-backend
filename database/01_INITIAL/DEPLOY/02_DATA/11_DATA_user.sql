@@ -1,1 +1,0 @@
-INSERT INTO `codmgr2`.`user` (userid,password,company_id,role_id) SELECT 'superadmin','password',MAX(c.id),MAX(r.id) from `codmgr2`.`company` c, `codmgr2`.`role` r;

@@ -4,7 +4,7 @@ const mysql = require("mysql");
 var hostname = "localhost";
 var username = "root";
 var dbpassword = "password";
-var databasename = "codmgr2";
+var databasename = "steven";
 
 module.exports = 
 {

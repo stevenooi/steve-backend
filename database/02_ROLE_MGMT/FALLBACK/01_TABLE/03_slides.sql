@@ -1,1 +1,0 @@
-ALTER TABLE `codmgr2`.`template` DROP COLUMN `template_id`; 
